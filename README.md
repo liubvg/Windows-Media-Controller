@@ -22,7 +22,7 @@ Features
 •	 Lightweight and responsive
 
 Python
-•	Python 3.10 or newer
+•	Python 3.10 or newer (works best with Python 3.12)
 
 Packages
 
