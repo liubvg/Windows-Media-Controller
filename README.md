@@ -1,17 +1,17 @@
 # Windows-Media-Controller
 A lightweight desktop widget for Windows that displays the currently playing media from supported applications using the Windows Global System Media Transport Controls API.
-The widget features album artwork, media information, playback controls, a blurred dynamic background, and a clean modern UI inspired by Windows 11.
+The widget features song's cover art, media information, playback controls, a blurred dynamic background, and a clean modern UI inspired by Windows 11.
 Features
 
 •	 Displays currently playing song/video title
 
 •	 Shows artist information
 
-•	 Shows album information
+•	 Shows song information
 
-•	 Displays album artwork thumbnails
+•	 Displays song artwork thumbnails
 
-•	 Dynamic blurred background based on album art
+•	 Dynamic blurred background based on the songs cover art
 
 •	 Always-on-top toggle
 
@@ -36,9 +36,7 @@ The widget queries active media sessions and retrieves
 
 •	Artist
 
-•	Album
-
-•	Album artwork
+•	Song's cover art
 
 •	Playback status
 
@@ -54,5 +52,4 @@ Limitations
 
 •	Some browser tabs may not provide album artwork
 
-•	DRM-protected applications may restrict metadata access
-
+•	Many DRM-protected applications restrict metadata access
